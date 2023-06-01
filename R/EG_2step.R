@@ -27,6 +27,9 @@
 #' 
 #' 1. The function Estimate a simple regression model between pairwise variables to obtain the residuals.
 #' 2. Employing Augmented Dickey-Fuller (ADF) on every residuals from the aforementioned regression model
+#' 3. The function has not incorporated checking for same order of integration for each "n" variables. 
+
+
 
 
 # A function that loades or downloads library ----
